@@ -7,3 +7,5 @@ if character[len(character) - len(suffix):] == suffix:
     print ("true")
 else:
     print ("false")
+
+    
